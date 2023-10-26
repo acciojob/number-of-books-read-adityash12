@@ -20,7 +20,7 @@ library.forEach( (book) => {
 	    if(book.readingStatus==false){
            count++;
 		}
-	return count;
+   console.log(count);
   // write your code here
 };)
 
