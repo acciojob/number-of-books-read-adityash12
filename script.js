@@ -22,7 +22,7 @@ library.forEach( (book) => {
 		}
  
   // write your code here
-};)
+})
   console.log(count);
 
 // Do not change the code below
